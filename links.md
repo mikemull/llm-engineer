@@ -65,6 +65,7 @@
    * [GitHub - stitionai/devika: Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.](https://github.com/stitionai/devika)
    * [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924)
    * [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](https://arxiv.org/abs/2403.17927)
+   * [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 
 8. Explanation of Code
    * [Towards an Understanding of Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2308.11396)
