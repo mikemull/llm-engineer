@@ -39,6 +39,7 @@
    * [[2212.10561] Parsel: Algorithmic Reasoning with Language Models by Composing Decompositions](https://arxiv.org/abs/2212.10561)
    * [[2401.00963] Leveraging Large Language Models to Boost Dafny's Developers Productivity](https://arxiv.org/abs/2401.00963)
    * [[2402.00247] Towards AI-Assisted Synthesis of Verified Dafny Methods](https://arxiv.org/abs/2402.00247)
+   * [Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models](https://arxiv.org/abs/2404.02575)
 
 5. Companies/Products
    * AlphaCodium
@@ -48,6 +49,7 @@
    * [Tabnine](https://www.tabnine.com/)
    * [Replit](https://replit.com/)
    * [Lovable](https://lovable.dev/)
+   * [RunLLM](https://runllm.com/)
 
 6. Debuggers
    * ChatDBG
