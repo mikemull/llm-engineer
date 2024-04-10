@@ -50,6 +50,7 @@
    * [Replit](https://replit.com/)
    * [Lovable](https://lovable.dev/)
    * [RunLLM](https://runllm.com/)
+   * [Gemini Code Assistant](https://cloud.google.com/gemini/docs/codeassist/overview)
 
 6. Debuggers
    * ChatDBG
