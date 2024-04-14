@@ -51,6 +51,7 @@
    * [Lovable](https://lovable.dev/)
    * [RunLLM](https://runllm.com/)
    * [Gemini Code Assistant](https://cloud.google.com/gemini/docs/codeassist/overview)
+   * [Snowflake Cortex](https://www.snowflake.com/en/data-cloud/cortex/)
 
 6. Debuggers
    * ChatDBG
