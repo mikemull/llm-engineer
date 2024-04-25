@@ -52,6 +52,7 @@
    * [RunLLM](https://runllm.com/)
    * [Gemini Code Assistant](https://cloud.google.com/gemini/docs/codeassist/overview)
    * [Snowflake Cortex](https://www.snowflake.com/en/data-cloud/cortex/)
+   * [Augment](https://www.augmentcode.com/)
 
 6. Debuggers
    * ChatDBG
