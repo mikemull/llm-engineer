@@ -22,6 +22,8 @@
        * [[2308.12950] Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950)
    * StarCoder
        * [[2305.06161] StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161)
+   * Granite Code Models
+       * [Granite Code Models: A Family of Open Foundation Models for Code Intelligence](https://arxiv.org/abs/2405.04324)
 
 3. Code Generation Benchmarks
    * MBPP
