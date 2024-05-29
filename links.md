@@ -76,6 +76,7 @@
    * [Plandex](https://github.com/plandex-ai/plandex)
    * [SWE-Agent](https://swe-agent.com/)
    * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
+   * [JACoB](https://www.jacb.ai/)
 
 8. Explanation of Code
    * [Towards an Understanding of Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2308.11396)
