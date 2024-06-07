@@ -4,6 +4,7 @@
     * [[1706.03762] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
     * [5分で分かる!? 有名論文ナナメ読み：Jacob Devlin et al. : BERT : Pre-training of Deep Bidirectional Transformers for Language Understanding | Semantic Scholar](https://www.semanticscholar.org/paper/5%E5%88%86%E3%81%A7%E5%88%86%E3%81%8B%E3%82%8B!-%E6%9C%89%E5%90%8D%E8%AB%96%E6%96%87%E3%83%8A%E3%83%8A%E3%83%A1%E8%AA%AD%E3%81%BF%EF%BC%9AJacob-Devlin-et-al.-%3A-BERT-%3A-of-%E7%9F%A5%E7%A7%80/43f2ad297941db230c089ba353efc3f281ab678c)
     * [[PDF] BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | Semantic Scholar](https://www.semanticscholar.org/paper/BART%3A-Denoising-Sequence-to-Sequence-Pre-training-Lewis-Liu/395de0bd3837fdf4b4b5e5f04835bcc69c279481)
+    * [DIDACT](https://research.google/blog/large-sequence-models-for-software-development-activities/)
 
 2. Papers on Code Generation Methods
    * OpenAI Codex
